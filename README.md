@@ -1,2 +1,2 @@
-# readyly
+# ReactDraft
 Created with CodeSandbox
